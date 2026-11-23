@@ -383,8 +383,8 @@ aws s3 rb s3://YOUR-BUCKET-NAME
 **Sufyan Ali**
 Cloud Computing / AWS Cloud Security student
 
-- GitHub: [your-username](https://github.com/sufyanalicloudai-maker)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/sufyan-ali-57774a313)
+- GitHub: [sufyanalicloudai-maker](https://github.com/sufyanalicloudai-maker)
+- LinkedIn: [sufyan-ali](https://www.linkedin.com/in/sufyan-ali-57774a313)
 
 ---
 
